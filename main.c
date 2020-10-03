@@ -22,6 +22,10 @@ int main(void)
     {
         case '+':  //add it
             result = x + y; break;
+		
+		//Changes
+		case '-' //subtracts
+			result = x - y; break; 
     }
 
     //print the result
